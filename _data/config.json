@@ -1,0 +1,75 @@
+{
+    "title": "Stackbit Fresh Theme",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Дмитрий",
+        "tagline": "Заядлый любитель web разработки и сторонник философии движения за открытый исходный код.",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--sBbCH5Y_--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/627920/0fdc34b7-28eb-4e85-90d0-96019f36d6cd.jpg",
+        "profile_img_alt": "Author avatar",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/webdev_pwa",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/dev-pwa",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/devpwa",
+                "style": "icon",
+                "icon_class": "dev",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "links": [
+            {
+                "label": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true,
+                "style": "link"
+            }
+        ]
+    }
+}
