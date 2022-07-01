@@ -22,3 +22,5 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+
+theme: jekyll-theme-leap-day
